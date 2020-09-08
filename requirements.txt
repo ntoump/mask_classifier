@@ -3,3 +3,4 @@ fastai2
 pillow
 packaging
 ipywidgets
+torch
