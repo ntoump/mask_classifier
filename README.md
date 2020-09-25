@@ -1,3 +1,5 @@
+### This version of the application is OBSOLETE. Head over to https://protected-mountain-28715.herokuapp.com/ to experiment with the freely available newer version (Mask Classifier v3).
+
 This is the Mask Classifier (v2). 
 
 It was build as a project of https://fast.ai course v4, and it uses many high-level levers of the fastai2 library. For that, one can only be thankful to its creators.
