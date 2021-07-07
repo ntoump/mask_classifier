@@ -1,3 +1,5 @@
+## THE APPLICATION IS CURRENTLY UNAVAILABLE. GET IN TOUCH TO LEARN MORE.
+
 ### This version of the application is OBSOLETE. Head over to https://protected-mountain-28715.herokuapp.com/ to experiment with the freely available newer version (Mask Classifier v3).
 
 This is the Mask Classifier (v2). 
